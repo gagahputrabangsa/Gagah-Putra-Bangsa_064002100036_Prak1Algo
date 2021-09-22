@@ -1,6 +1,0 @@
-print ("@@@@  @@@@  @@@@  @@@@  @  @")
-print ("@     @  @  @     @  @  @  @")
-print ("@ @@  @@@@  @ @@  @@@@  @@@@")
-print ("@@@@  @  @  @@@@  @  @  @  @")
-print ("i'm playing genshin")
-print ('how', '"aku main valorant"' )
